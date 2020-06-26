@@ -1,10 +1,8 @@
 ## How to run
 * Install
 
-    `pip install textblob`
+    `pip install nltk`
     
-    `python -m textblob.download_corpora`
-
  * Use command-line interface to extract noun from text:
 
     `python finder.py`
